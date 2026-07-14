@@ -213,4 +213,47 @@ nav ul li a{
     color:white;
     border:none;
 }
+.faq{
+    text-align:center;
+    padding:60px 0;
+}
+
+
+.faq h2{
+    font-size:35px;
+    margin-bottom:10px;
+}
+
+
+.faq p{
+    color:gray;
+    margin-bottom:30px;
+}
+
+
+.faq-box{
+    width:90%;
+    margin:auto;
+}
+
+
+.faq-card{
+    width:45%;
+    display:inline-block;
+    padding:25px;
+    margin:10px;
+    border:1px solid lightgray;
+    border-radius:10px;
+    text-align:left;
+}
+
+
+.faq-card h3{
+    margin-bottom:15px;
+}
+
+
+.faq-card p{
+    line-height:22px;
+}
 
