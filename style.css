@@ -129,4 +129,88 @@ nav ul li a{
     margin:10px 0;
 }
 
+.pricing{
+    text-align:center;
+    padding:60px 0;
+}
+
+.pricing h2{
+    font-size:45px;
+    margin-bottom:10px;
+}
+
+.pricing p{
+    color:gray;
+    margin-bottom:40px;
+}
+
+.pricing-box{
+    width:90%;
+    margin:auto;
+}
+
+.price-card{
+    width:30%;
+    display:inline-block;
+    border:1px solid lightgray;
+    border-radius:8px;
+    padding:20px;
+    margin:10px;
+    text-align:left;
+    vertical-align:top;
+}
+
+.price-card h5{
+    color:gray;
+    margin-bottom:10px;
+}
+
+.price-card h2{
+    font-size:40px;
+    margin-bottom:5px;
+}
+
+.price-card span{
+    color:gray;
+    font-size:14px;
+}
+
+.price-card hr{
+    margin:20px 0;
+}
+
+.price-card ul{
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
+.price-card li{
+    margin-bottom:10px;
+}
+
+.price-card a{
+    display:block;
+    text-align:center;
+    text-decoration:none;
+    border:1px solid rgb(10, 10, 20);
+    color:blue;
+    padding:10px;
+    border-radius:5px;
+}
+
+.pro{
+    background-color:rgb(1, 1, 42);
+    color:white;
+}
+
+.pro h5,
+.pro span{
+    color:rgb(116, 148, 244);
+}
+
+.pro a{
+    background-color:rgb(84, 133, 240);
+    color:white;
+    border:none;
+}
 
